@@ -7,7 +7,7 @@ Solution for file storage.📁📁📁 Just for portfolio purposes.
 
 ![Alt text](https://github.com/dorisoy/FileStorage/blob/master/OUPY~ZWI)M83ALSJ7J~_)ZT.png)
 
-![Alt text](https://github.com/dorisoy/FileStorage/blob/master/OUPY~ZWI)M83ALSJ7J~_)ZT.png?raw=true)
+<img src="https://github.com/dorisoy/FileStorage/blob/master/OUPY~ZWI)M83ALSJ7J~_)ZT.png?raw=true">
 
 ## Features
  - Angular v9 & ASP.NET Core 3.1
