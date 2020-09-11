@@ -4,7 +4,10 @@
 Solution for file storage.📁📁📁 Just for portfolio purposes.
 
 ### Preview Screen
-![Alt text](https://github.com/Pashkett/FileStorageProject/blob/master/FileStorageApp.JPG)
+
+![Alt text](https://github.com/dorisoy/FileStorage/blob/master/OUPY~ZWI)M83ALSJ7J~_)ZT.png)
+
+![Alt text](https://github.com/dorisoy/FileStorage/blob/master/HK43EVS~6)T4QQJ8N%25IK%24OP.png)
 
 ## Features
  - Angular v9 & ASP.NET Core 3.1
